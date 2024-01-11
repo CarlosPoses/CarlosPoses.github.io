@@ -10,7 +10,8 @@ website:
       - text: "CV"
         file: CV_CarlosGPoses.pdf
       - publications.qmd
-
+  page-footer: 
+    center: "© Copyright 2024 Carlos G. Poses"
 format:
   html:
     theme: lux
