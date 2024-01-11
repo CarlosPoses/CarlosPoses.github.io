@@ -1,0 +1,32 @@
+---
+title: "Carlos Poses"
+about:
+    template: trestles
+    image-width: 15em
+    image-shape: rounded
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/carlos-poses-95901b149/
+        - icon: github
+          text: Github
+          url: https://github.com/CarlosPoses
+        - text: "{{< fa envelope >}} Email"
+          url: mailto:carlosgonzalezposes@gmail.com
+        - text: "{{< ai orcid >}} ORCID"
+          url: https://orcid.org/0000-0002-6546-838X
+        - text: "{{< ai google-scholar >}} Google Scholar"
+          url: https://scholar.google.es/citations?user=mRqeybgAAAAJ&hl=es&oi=ao
+image: Carlos (2).jpg
+comments: false
+---
+
+I am [Methodology and Statistics](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences) Research Master's student at Utrecht University. I also work as a research assistant for the [ODISSEI Social Data Science team](https://odissei-soda.nl/) and for [Thom Volker](https://thomvolker.github.io/) (developing the `densityratio` [R package](https://github.com/thomvolker/densityratio)), and as teaching assistant for different university courses.
+
+Before, I worked for three years as a researcher in survey methods at [RECSM-UPF](https://www.upf.edu/web/survey). My main focus was measurement: estimating measurement error and assessing measurement comparability, in collaboration with the [European Social Survey](https://www.europeansocialsurvey.org/methodology/ess-methodology/data-quality-assessment). Check out my [publications](publications.qmd) and [CV](CV_CarlosGPoses.pdf) for details.
+
+My Master's thesis focuses on causal inference for policy evaluation. In my project, I am developing a Bayesian multilevel extension for the standard [synthetic control method](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.ap08746), under the supervision of [Erik-Jan van Kesteren](https://erikjanvankesteren.nl/) and [Oisín Ryan](https://oisinryan.org/). I am currently looking for a PhD position, preferably connected to causal inference.
+
+I have a background in social sciences, with a Bachelor's degree in [Philosophy, Politics and Economics](https://www.upf.edu/web/graus/grau-filosofia-politica-economia) from Universitat Pompeu Fabra, Universidad Autónoma de Madrid and Universidad Carlos III de Madrid.
+
+I am originally from [Galicia](https://en.wikipedia.org/wiki/Galicia_(Spain)), and currently based in Utrecht.

@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  navbar:
+    right:
+      - text: "About"
+        file: index.qmd
+      - text: "CV"
+        file: CV_CarlosGPoses.pdf
+      - publications.qmd
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+    max-width: 100px
+    margin-left: -100px
+    margin-width: 0
+
+editor: visual
+
