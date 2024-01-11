@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Poses, C., Revilla, M., Schwarz, H., Asensio, M., & Weber, W. (2021). Measurement quality of 67 common social sciences questions across countries and languages based on 28 Multitrait-Multimethod experiments implemented in the European Social Survey. Survey Research Methods., 15 (3), 235–256. https://doi.org/https://doi.org/10.18148/srm/ 2021.v15i3.7816\nPoses, C., & Revilla, M. (2021). Measuring satisfaction with democracy: How good are different scales across countries and languages? European Political Science Review, 1–18. https://doi.org/10.1017/S1755773921000266\nRevilla, M., Poses, C., Serra, O., Asensio, M., Schwarz, H., & Weber, W. (2021). Applying the Estimation Using Pooled Data Approach to the Multitrait-Multimethod Experiments of the European Social Survey (Rounds 1 to 7). Structural Equation Modeling: A Multidisciplinary Journal, 28 (3), 463–474. https://doi.org/10.1080/ 10705511.2020.1807988"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Carlos Poses",
+    "section": "",
+    "text": "I am Methodology and Statistics Research Master’s student at Utrecht University. I also work as a research assistant for the ODISSEI Social Data Science team and for Thom Volker (developing the densityratio R package), and as teaching assistant for different university courses.\nBefore, I worked for three years as a researcher in survey methods at RECSM-UPF. My main focus was measurement: estimating measurement error and assessing measurement comparability, in collaboration with the European Social Survey. Check out my publications and CV for details.\nMy Master’s thesis focuses on causal inference for policy evaluation. In my project, I am developing a Bayesian multilevel extension for the standard synthetic control method, under the supervision of Erik-Jan van Kesteren and Oisín Ryan. I am currently looking for a PhD position, preferably connected to causal inference.\nI have a background in social sciences, with a Bachelor’s degree in Philosophy, Politics and Economics from Universitat Pompeu Fabra, Universidad Autónoma de Madrid and Universidad Carlos III de Madrid.\nI am originally from Galicia, and currently based in Utrecht."
+  }
+]

@@ -2,19 +2,8 @@
 title: "Publications"
 ---
 
-1. **Poses, C.**, Revilla, M., Schwarz, H., Asensio, M., & Weber, W. (2021). Measurement
-quality of 67 common social sciences questions across countries and languages based on 28
-Multitrait-Multimethod experiments implemented in the European Social Survey. *Survey
-Research Methods*., 15 (3), 235–256. https://doi.org/https://doi.org/10.18148/srm/
-2021.v15i3.7816
+1.  **Poses, C.**, Revilla, M., Schwarz, H., Asensio, M., & Weber, W. (2021). Measurement quality of 67 common social sciences questions across countries and languages based on 28 Multitrait-Multimethod experiments implemented in the European Social Survey. *Survey Research Methods*., 15 (3), 235–256. https://doi.org/https://doi.org/10.18148/srm/ 2021.v15i3.7816
 
+2.  **Poses, C.**, & Revilla, M. (2021). Measuring satisfaction with democracy: How good are different scales across countries and languages? *European Political Science Review*, 1–18. https://doi.org/10.1017/S1755773921000266
 
-2. **Poses, C.**, & Revilla, M. (2021). Measuring satisfaction with democracy: How good are
-different scales across countries and languages? *European Political Science Review*, 1–18.
-https://doi.org/10.1017/S1755773921000266
-
-3. Revilla, M., **Poses, C.**, Serra, O., Asensio, M., Schwarz, H., & Weber, W. (2021).
-Applying the Estimation Using Pooled Data Approach to the Multitrait-Multimethod
-Experiments of the European Social Survey (Rounds 1 to 7). *Structural Equation
-Modeling: A Multidisciplinary Journal*, 28 (3), 463–474. https://doi.org/10.1080/
-10705511.2020.1807988
+3.  Revilla, M., **Poses, C.**, Serra, O., Asensio, M., Schwarz, H., & Weber, W. (2021). Applying the Estimation Using Pooled Data Approach to the Multitrait-Multimethod Experiments of the European Social Survey (Rounds 1 to 7). *Structural Equation Modeling: A Multidisciplinary Journal*, 28 (3), 463–474. https://doi.org/10.1080/ 10705511.2020.1807988
