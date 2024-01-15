@@ -17,7 +17,7 @@ about:
           url: https://orcid.org/0000-0002-6546-838X
         - text: "{{< ai google-scholar >}} Google Scholar"
           url: https://scholar.google.es/citations?user=mRqeybgAAAAJ&hl=es&oi=ao
-image: Carlos.jpg
+image: Carlos.jpeg
 comments: false
 ---
 
