@@ -11,6 +11,13 @@
     "href": "index.html",
     "title": "Carlos Poses",
     "section": "",
-    "text": "I am Methodology and Statistics Research Master’s student at Utrecht University. I also work as a research assistant for the ODISSEI Social Data Science team and for Thom Volker (developing the densityratio R package), and as teaching assistant for different university courses.\nBefore, I worked for three years as a researcher in survey methodology at RECSM-UPF. My main focus was measurement: estimating measurement error and assessing measurement comparability, in collaboration with the European Social Survey. Check out my publications and CV for details.\nMy Master’s thesis focuses on causal inference for policy evaluation. In my project, I am developing a Bayesian multilevel extension for the standard synthetic control method, under the supervision of Erik-Jan van Kesteren and Oisín Ryan. I am currently looking for a PhD position, preferably related to causal inference.\nI have a background in social sciences, with a Bachelor’s degree in Philosophy, Politics and Economics from Universitat Pompeu Fabra, Universidad Autónoma de Madrid and Universidad Carlos III de Madrid.\nI am originally from Galicia, and currently based in Utrecht."
+    "text": "I am a PhD candidate at the Real World Evidence Team at the Utrecht University Medical Center.\nMy thesis focuses on the development of causal inference methods for assessing the effectiveness and safety of health interventions using health electronic records.\nMy supervisors are Oisín Ryan and Linda Nab, and my promotor is Miriam Sturkenboom."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Carlos Poses",
+    "section": "About",
+    "text": "About\nI graduated from the Methodology and Statistics Research Master’s at Utrecht University. During my studies, I worked both as research assistant (for the ODISSEI Social Data Science Team and the densityratio R package) and as teaching assistant for different courses. In my Master’s thesis, I developed a Bayesian implementation of the synthetic control method, a causal inference method common in the econometrics literature.\nBefore, I worked for three years as a researcher in survey methodology at RECSM-UPF. My main focus was measurement: estimating measurement error and assessing measurement comparability, in collaboration with the European Social Survey. Check out my publications and CV for details.\nI have a background in social sciences, with a Bachelor’s degree in Philosophy, Politics and Economics from Universitat Pompeu Fabra, Universidad Autónoma de Madrid and Universidad Carlos III de Madrid.\nI am originally from Galicia, and currently based in Utrecht."
   }
 ]

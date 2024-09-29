@@ -1,32 +1,49 @@
 ---
 title: "Carlos Poses"
 about:
+    id: about-page
     template: trestles
     image-width: 15em
     image-shape: rounded
     links:
         - icon: linkedin
-          text: LinkedIn
+          text: ""
           url: https://www.linkedin.com/in/carlos-poses-95901b149/
         - icon: github
-          text: Github
+          text: ""
           url: https://github.com/CarlosPoses
-        - text: "{{< fa envelope >}} Email"
+        - text: "{{< fa envelope >}}"
           url: mailto:carlosgonzalezposes@gmail.com
-        - text: "{{< ai orcid >}} ORCID"
+        - text: "{{< fa brands orcid >}}"
           url: https://orcid.org/0000-0002-6546-838X
-        - text: "{{< ai google-scholar >}} Google Scholar"
+        - text: "{{< fa brands google >}}" 
           url: https://scholar.google.es/citations?user=mRqeybgAAAAJ&hl=es&oi=ao
 image: linkedin.png
 comments: false
 ---
 
-I am [Methodology and Statistics](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences) Research Master's student at Utrecht University. I also work as a research assistant for the [ODISSEI Social Data Science team](https://odissei-soda.nl/) and for [Thom Volker](https://thomvolker.github.io/) (developing the `densityratio` [R package](https://github.com/thomvolker/densityratio)), and as teaching assistant for different university courses.
+::: {#about-page}
+
+<br>
+
+I am a PhD candidate at the [Real World Evidence Team](https://research.umcutrecht.nl/research-groups/real-world-evidence-group/) at the Utrecht University Medical Center. 
+
+My thesis focuses on the development of causal inference methods for assessing the effectiveness and safety of health interventions using health electronic records.
+
+My supervisors are [Oisín Ryan](https://oisinryan.org) and [Linda Nab](https://github.com/LindaNab), and my promotor is [Miriam Sturkenboom](https://www.umcutrecht.nl/en/research/researchers/sturkenboom-miriam).
+
+:::
+
+::: column-body
+<br>
+
+## About
+
+I graduated from the [Methodology and Statistics](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences) Research Master's at Utrecht University. During my studies, I worked both as research assistant (for the ODISSEI Social Data Science Team and the `densityratio` R package) and as teaching assistant for different courses. In my Master's thesis, I developed a Bayesian implementation of the synthetic control method, a causal inference method common in the econometrics literature.
 
 Before, I worked for three years as a researcher in survey methodology at [RECSM-UPF](https://www.upf.edu/web/survey). My main focus was measurement: estimating measurement error and assessing measurement comparability, in collaboration with the [European Social Survey](https://www.europeansocialsurvey.org/methodology/ess-methodology/data-quality-assessment). Check out my [publications](publications.qmd) and [CV](CV_CarlosGPoses.pdf) for details.
-
-My Master's thesis focuses on causal inference for policy evaluation. In my project, I am developing a Bayesian multilevel extension for the standard [synthetic control method](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.ap08746), under the supervision of [Erik-Jan van Kesteren](https://erikjanvankesteren.nl/) and [Oisín Ryan](https://oisinryan.org/). I am currently looking for a PhD position, preferably related to causal inference.
 
 I have a background in social sciences, with a Bachelor's degree in [Philosophy, Politics and Economics](https://www.upf.edu/web/graus/grau-filosofia-politica-economia) from Universitat Pompeu Fabra, Universidad Autónoma de Madrid and Universidad Carlos III de Madrid.
 
 I am originally from [Galicia](https://en.wikipedia.org/wiki/Galicia_(Spain)), and currently based in Utrecht.
+:::
