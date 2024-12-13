@@ -28,7 +28,6 @@ comments: false
 I am a PhD candidate working in causal inference at the [Real World Evidence Team](https://research.umcutrecht.nl/research-groups/real-world-evidence-group/), Department of Data Science & Biostatistics, UMC Utrecht.
 
 For my PhD research, I evaluate and develop causal inference techniques for analyzing the safety and effectiveness of health interventions. The focus of my project is on the use of [real-world evidence](https://www.fda.gov/science-research/science-and-research-special-topics/real-world-evidence), essentially, health electronic records collected in routine healthcare practice.
-
 :::
 
 ::: column-body
@@ -38,7 +37,7 @@ For my PhD research, I evaluate and develop causal inference techniques for anal
 
 I graduated from the [Methodology and Statistics](https://www.uu.nl/en/masters/methodology-and-statistics-behavioural-biomedical-and-social-sciences) Research Master's at Utrecht University. During my studies, I helped developing the [densityratio](https://github.com/thomvolker/densityratio) R package, I was part of the [ODISSEI Social Data Science Team](https://odissei-soda.nl), and I was a teaching assistant for different courses. My Master's thesis focused on the development of a Bayesian implementation of the synthetic control method.
 
-Before, I worked for three years as a researcher in survey methodology at [RECSM-UPF](https://www.upf.edu/web/survey). There, we used latent variable models to estimate measurement error and assessing measurement comparability of data from the [European Social Survey](https://www.europeansocialsurvey.org/methodology/ess-methodology/data-quality-assessment).
+Before, I worked for three years as a researcher in survey methodology at [RECSM-UPF](https://www.upf.edu/web/survey). There, we used latent variable models to estimate measurement error and assess measurement comparability of data from the [European Social Survey](https://www.europeansocialsurvey.org/methodology/ess-methodology/data-quality-assessment).
 
 Originally from [Galicia](https://en.wikipedia.org/wiki/Galicia_(Spain)), I am now based in Utrecht.
 :::
