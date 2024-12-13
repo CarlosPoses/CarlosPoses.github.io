@@ -25,7 +25,7 @@ comments: false
 ::: {#about-page}
 <br>
 
-I am a PhD candidate working in causal inference at the [Real World Evidence Team](https://research.umcutrecht.nl/research-groups/real-world-evidence-group/), Department of Data Science & Biostatistics, UMC Utrecht.
+I am a PhD candidate working on causal inference methods at the [Real World Evidence Team](https://research.umcutrecht.nl/research-groups/real-world-evidence-group/), Department of Data Science & Biostatistics, UMC Utrecht.
 
 For my PhD research, I evaluate and develop causal inference techniques for analyzing the safety and effectiveness of health interventions. The focus of my project is on the use of [real-world evidence](https://www.fda.gov/science-research/science-and-research-special-topics/real-world-evidence), essentially, health electronic records collected in routine healthcare practice.
 :::
