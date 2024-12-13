@@ -1,7 +1,69 @@
 /* css styles */
 b, strong {
-  font-weight: 900;
+  font-weight: 800;
 }
 body {
   letter-spacing: -0.2px; 
+  font-size: 18px;
+  background-color: #ffffff;
 }
+
+/* hyperlink color */
+a {
+  color: #006649;
+  text-decoration: none;
+  font-weight: 500;
+  border-bottom: 0.5px solid #006649; /* Set the thickness and color of the underline */
+}
+
+h3 {
+  color:  #006649;  /* Change this to the desired color */
+}
+
+.navbar-toggler {
+   color:  #006649;
+   background-color: #006649;
+}
+
+p {
+  text-align: justify;
+}
+
+
+.navbar {
+  background-color: #ffffff;
+  font-size: 24px;
+  color: black;
+  font-weight: 500;
+}
+
+.navbar-nav {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto; /* Centers the navbar links */
+}
+
+.justify-text {
+    text-align: justify;
+}
+
+.nav-link {
+  color: black;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: #006649;
+    font-weight: 900;
+}
+
+
+div.quarto-about-trestles .about-entity .about-link { /* linkedin, github... icons */
+    font-size: 1.6em;
+    padding: 0em 0em;
+    border-radius: 0px;
+}
+div.quarto-about-trestles .about-entity .about-link { /* linkedin, github... icons color */
+color: #006649;
+text-decoration: none;
+border: none;
+}
+
