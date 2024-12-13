@@ -11,13 +11,13 @@
     "href": "index.html",
     "title": "Carlos Poses",
     "section": "",
-    "text": "I am a PhD candidate at the Real World Evidence Team at the Utrecht University Medical Center.\nMy thesis focuses on the development of causal inference methods for assessing the effectiveness and safety of health interventions using health electronic records.\nMy supervisors are Oisín Ryan and Linda Nab, and my promotor is Miriam Sturkenboom."
+    "text": "I am a PhD candidate working in causal inference at the Real World Evidence Team, Department of Data Science & Biostatistics, UMC Utrecht.\nFor my PhD research, I evaluate and develop causal inference techniques for analyzing the safety and effectiveness of health interventions. The focus of my project is on the use of real-world evidence, essentially, health electronic records collected in routine healthcare practice."
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Carlos Poses",
     "section": "About",
-    "text": "About\nI graduated from the Methodology and Statistics Research Master’s at Utrecht University. During my studies, I worked both as research assistant (for the ODISSEI Social Data Science Team and the densityratio R package) and as teaching assistant for different courses. In my Master’s thesis, I developed a Bayesian implementation of the synthetic control method, a causal inference method common in the econometrics literature.\nBefore, I worked for three years as a researcher in survey methodology at RECSM-UPF. My main focus was measurement: estimating measurement error and assessing measurement comparability, in collaboration with the European Social Survey. Check out my publications and CV for details.\nI have a background in social sciences, with a Bachelor’s degree in Philosophy, Politics and Economics from Universitat Pompeu Fabra, Universidad Autónoma de Madrid and Universidad Carlos III de Madrid.\nI am originally from Galicia, and currently based in Utrecht."
+    "text": "About\nI graduated from the Methodology and Statistics Research Master’s at Utrecht University. During my studies, I helped developing the densityratio R package, I was part of the ODISSEI Social Data Science Team, and I was a teaching assistant for different courses. My Master’s thesis focused on the development of a Bayesian implementation of the synthetic control method.\nBefore, I worked for three years as a researcher in survey methodology at RECSM-UPF. There, we used latent variable models to estimate measurement error and assessing measurement comparability of data from the European Social Survey.\nOriginally from Galicia, I am now based in Utrecht."
   }
 ]
