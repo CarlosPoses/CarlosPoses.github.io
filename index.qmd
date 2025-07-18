@@ -27,7 +27,9 @@ comments: false
 
 I am a PhD candidate working on causal inference methods at the [Real World Evidence Team](https://research.umcutrecht.nl/research-groups/real-world-evidence-group/), Department of Data Science & Biostatistics, UMC Utrecht.
 
-My research focuses on evaluating and developing techniques to draw causal inferences about the safety and effectiveness of health interventions. Specifically, I explore methods for leveraging large-scale electronic health records routinely collected during healthcare practice, a type of observational data commonly referred to as [real-world data](https://www.fda.gov/science-research/science-and-research-special-topics/real-world-evidence).
+My PhD focuses on causal inference with observational data. Specifically, I work on target trial emulation, its methodology and applications. 
+
+My aim is to understand how we can use large-scale electronic health records to study the safety and effectiveness of health interventions, especially for questions where randomized clinical trials are unlikely to be performed.
 
 :::
 

@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Carlos Poses",
     "section": "",
-    "text": "I am a PhD candidate working on causal inference methods at the Real World Evidence Team, Department of Data Science & Biostatistics, UMC Utrecht.\nMy research focuses on evaluating and developing techniques to draw causal inferences about the safety and effectiveness of health interventions. Specifically, I explore methods for leveraging large-scale electronic health records routinely collected during healthcare practice, a type of observational data commonly referred to as real-world data."
+    "text": "I am a PhD candidate working on causal inference methods at the Real World Evidence Team, Department of Data Science & Biostatistics, UMC Utrecht.\nMy PhD focuses on causal inference with observational data. Specifically, I work on target trial emulation, its methodology and applications.\nMy aim is to understand how we can use large-scale electronic health records to study the safety and effectiveness of health interventions, especially for questions where randomized clinical trials are unlikely to be performed."
   },
   {
     "objectID": "index.html#about",
