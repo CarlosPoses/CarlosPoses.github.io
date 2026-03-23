@@ -27,7 +27,7 @@ comments: false
 
 I am a PhD candidate working on causal inference methods at the [Real World Evidence Team](https://research.umcutrecht.nl/research-groups/real-world-evidence-group/), Department of Data Science & Biostatistics, UMC Utrecht.
 
-My PhD focuses on causal inference with observational data. Specifically, I work on target trial emulation, its methodology and applications. 
+My PhD focuses on causal inference with observational data. My current focus is the comparison of confounder adjustment methods and the application on target trial emulation in challenging contexts.
 
 My aim is to understand how we can use large-scale electronic health records to study the safety and effectiveness of health interventions, especially for questions where randomized clinical trials are unlikely to be performed.
 
